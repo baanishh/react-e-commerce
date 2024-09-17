@@ -1,5 +1,5 @@
 
-import SubscribeImg from '../../assets/Subscribe.avif'
+import SubscribeImg from "../../assets/subscribe.avif"
 
 const Subscribe = () => {
 
