@@ -1,10 +1,10 @@
-import React from 'react'
-import Subs from '../../assets/Subscribe.avif'
+
+import SubscribeImg from '../../assets/Subscribe.avif'
 
 const Subscribe = () => {
 
     const BannerImg={
-        backgroundImage:`url(${Subs})`,
+        backgroundImage:`url(${SubscribeImg})`,
         backgroundPosition:'center',
         backgroundRepaet:'no-repeat',
         backgroundSize:'cover',

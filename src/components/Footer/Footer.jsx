@@ -1,4 +1,4 @@
-import React from 'react'
+
 import footerLogo from "../../assets/logo.png"
 import Banner1 from "../../assets/footerBanner.avif"
 import { FaFacebook, FaInstagram, FaLinkedin, FaLocationArrow } from 'react-icons/fa6';
